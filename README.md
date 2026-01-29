@@ -27,4 +27,4 @@ This project helps illustrate how services listen on ports and how basic reconna
 Run the script from the terminal:
 
 ```bash
-python port_scanner.py
+python3 port_scanner.py
